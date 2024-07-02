@@ -1,7 +1,7 @@
 
 # BobAI: Personalized Financial Advice for Banks
 
-![BobAI architecture](assests/diagrams/architecture.png)
+![BobAI architecture](assests/diagrams/architecture_simplified.png)
 
 ## Description
 BobAI is an AI-powered chatbot that provides personalized financial advice for banks. It leverages advanced AI technologies for efficient and secure customer interactions. The project integrates various AI services to generate tailored responses to banking queries.
