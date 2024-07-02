@@ -99,3 +99,7 @@ Here are some examples of the AI in action:
 
 ![Query Screenshot 1](assests/screenshots/query1.png)
 ![Query Screenshot 2](assests/screenshots/query2.png)
+
+
+## Presentation Link
+To view the detailed PowerPoint presentation of the BobAI project, please follow this [view-only link](https://bit.ly/bobai_presentation).
