@@ -19,7 +19,7 @@ BobAI is an AI-powered chatbot that provides personalized financial advice for b
 - **Seamless Integration:** BobAI easily integrates with existing banking systems, minimizing disruptions compared to other solutions.
 - **Scalable Cloud Infrastructure:** BobAI adjusts resources dynamically based on user load, ensuring stable performance even during peak times.
 
-![BobAI security architecture](assests/diagrams/data_security.png)
+![BobAI security architecture](assests/diagrams/hero.png)
 
 ## Scalability
 
