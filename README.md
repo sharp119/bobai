@@ -1,5 +1,5 @@
 
-# BobAI: Personalized Financial Advice for Banks
+# BobAI: Enhanching Financial Service with Personalized, Secure AI
 
 ![BobAI architecture](assests/diagrams/architecture_simplified.png)
 
