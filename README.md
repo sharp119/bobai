@@ -25,7 +25,7 @@ BobAI is an AI-powered chatbot that provides personalized financial advice for b
 
 BobAI utilizes horizontal scaling for handling high volumes of customer inquiries and load balancing for efficient distribution of requests. Azure Kubernetes Service (AKS) is used for containerized deployment.
 
-![BobAI scalability architecture](assests/diagrams/scale.png.png)
+![BobAI scalability architecture](assests/diagrams/scale.png)
 
 
 
